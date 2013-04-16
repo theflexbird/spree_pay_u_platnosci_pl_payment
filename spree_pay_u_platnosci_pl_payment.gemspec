@@ -2,7 +2,7 @@
 
 Gem::Specification.new do |s|
   s.platform              = Gem::Platform::RUBY
-  s.name                  = 'spree-pay-u-platnosci-pl-payment'
+  s.name                  = 'spree_pay_u_platnosci_pl_payment'
   s.version               = '0.1.0'
   s.summary               = 'PayU.pl (platnosci.pl) payment system for Spree'
   s.description           = 'PayU.pl (platnosci.pl) payment system for Spree'
